@@ -2,7 +2,7 @@
   <div class="grid md:grid-cols-2 gap-4">
 
     <!-- Box 1 -->
-    <div class="shadow-md p-10 text-center rounded">
+    <div class="shadow-md p-10 text-center rounded xs:p-6">
       <h3 class="text-3xl text-blue-900 font-bold mb-4">Cases</h3>
 
       <div class="text-2xl mb-4">
@@ -16,7 +16,7 @@
     </div>
 
     <!-- Box 2 -->
-    <div class="shadow-md p-10 text-center rounded">
+    <div class="shadow-md p-10 text-center rounded xs:p-6">
       <h3 class="text-3xl text-blue-900 font-bold mb-4">Deaths</h3>
 
       <div class="text-2xl mb-4">
